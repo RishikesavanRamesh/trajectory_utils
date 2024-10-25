@@ -2,8 +2,7 @@
 
 This ROS package provides utilities for collecting, storing, and visualizing odometry data. It includes functionality to save trajectory data in a specified format and visualize it using markers in Rviz.
 
-![trajectory_utils](image-1.png)
-
+![trajectory_utils](trajectory_utils.png)
 ## Overview
 
 The package includes two main components:
