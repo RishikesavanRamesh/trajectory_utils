@@ -1,0 +1,4 @@
+string filename
+uint16 duration 
+---
+bool success
